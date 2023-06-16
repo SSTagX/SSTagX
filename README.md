@@ -5,3 +5,4 @@
 <div align="center">
 <a href="https://github.com/SSTagX"><img width=395 src="https://github-readme-stats.vercel.app/api?username=SSTagX&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSTagX&layout=compact&langs_count=7&theme=dark"></a>
 </div>
+<img src="https://raw.githubusercontent.com/SSTagX/SSTagX/output/snake.svg" alt="Snake animation" />
